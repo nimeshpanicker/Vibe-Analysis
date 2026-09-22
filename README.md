@@ -206,10 +206,6 @@ The project includes an interactive HTML dashboard with:
 - Region
 - Category
 
-### 🔗 Live Dashboard
-
-[View Interactive Vibe Analysis Dashboard](https://nimeshpanicker.github.io/Vibe-Analysis/)
-
 ---
 
 ## 📄 Project Report
